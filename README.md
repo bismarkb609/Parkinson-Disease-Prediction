@@ -11,6 +11,8 @@ particular voice measure, and each row corresponds one of 195 voice <br>
 recording from these individuals ("name" column). The main aim of the data  <br> 
 is to discriminate healthy people from those with PD, according to "status" <br> 
 column which is set to 0 for healthy and 1 for PD.
+<br> 
+<br>
 
 | feature | Description | <br>
 |:--------: | :-----------: | <br>
