@@ -13,6 +13,7 @@ is to discriminate healthy people from those with PD, according to "status" <br>
 column which is set to 0 for healthy and 1 for PD.
 
 | feature | Description | <br>
+| -------- | ----------- |
 | name | ASCII subject name and recording number | <br>
 | MDVP:Fo(Hz) | Average vocal fundamental frequency | <br>
 | MDVP:Fhi(Hz) | Maximum vocal fundamental frequency | <br>
