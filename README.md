@@ -15,7 +15,7 @@ column which is set to 0 for healthy and 1 for PD.
 <br>
 
  | feature | Description | <br>
- |:--------: | :-----------: | <br>
+ |:-------- |:----------- | <br>
  | name | ASCII subject name and recording number | <br>
  | MDVP:Fo(Hz) | Average vocal fundamental frequency | <br>
  | MDVP:Fhi(Hz) | Maximum vocal fundamental frequency | <br>
